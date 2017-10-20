@@ -1,50 +1,62 @@
 .contenedor{
   border: 1px solid black;
-  width: 650px;
+  width: 700px;
   height: 500px;
   overflow: hidden;
 
 }
 
 img{
-	width: 180px;
-   height: 180px;
+   width: 190px;
+   height: 185px;
+
+}
+
+h3{
+	text-align: center
 }
 .Titulo_Principal{
   background-color: #ffc107;
   border: 1px solid black;
-  width: 900px;
-  height: 60px;
+  width: 700px;
+  text-align: center;
 
-  left: 50px;
 }
 .subtitulo-1{
-  border: 1px solid black;
   width: 180px;
-  height: 400px;
   top: 90px;
-  position:absolute;
   text-align: justify;
   padding: 10px;
+  position: absolute;
  }
 
 .subtitulo-2{
   border: 1px solid black;
-  width: 265px;
-  height: 400px;
-  float: left;
   position:absolute;
-  top: 100px;
-  left:200px
+  width: 254px;
+  height: 399px;
+  float: left;
+  top: 90px;
+  padding: 10px;
+  left: 210px;
+  text-align: justify;
 
 }
 .subtitulo-3{
-  border: 1px solid black;
-  width: 190px;
-  height: 400px;
-  float: left;
-  top:100px;
   position:absolute;
-  left: 466px;
+  text-align: justify;
+  width: 190px;
+  
+  float: left;
+  top:85px;
+  left: 485px;
+  padding: 15px;
 
+}
+.informacion{
+  background-color: #ffc107;
+  border: 1px solid black;
+  width: 700px;
+  float: inherit;
+  text-align: center;
 }
