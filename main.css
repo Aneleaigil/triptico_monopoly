@@ -1,0 +1,50 @@
+.contenedor{
+  border: 1px solid black;
+  width: 650px;
+  height: 500px;
+  overflow: hidden;
+
+}
+
+img{
+	width: 180px;
+   height: 180px;
+}
+.Titulo_Principal{
+  background-color: #ffc107;
+  border: 1px solid black;
+  width: 900px;
+  height: 60px;
+
+  left: 50px;
+}
+.subtitulo-1{
+  border: 1px solid black;
+  width: 180px;
+  height: 400px;
+  top: 90px;
+  position:absolute;
+  text-align: justify;
+  padding: 10px;
+ }
+
+.subtitulo-2{
+  border: 1px solid black;
+  width: 265px;
+  height: 400px;
+  float: left;
+  position:absolute;
+  top: 100px;
+  left:200px
+
+}
+.subtitulo-3{
+  border: 1px solid black;
+  width: 190px;
+  height: 400px;
+  float: left;
+  top:100px;
+  position:absolute;
+  left: 466px;
+
+}
